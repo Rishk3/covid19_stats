@@ -31,7 +31,7 @@ class App extends React.Component {
       <div className={styles.container}>
         <div className={styles.flexx}>
           <p className={styles.head}>
-            <b>Rishk33</b>
+            <b>Rishk3</b>
           </p>
           <div className={styles.tc}>
             <img className={styles.image} src={image} alt="COVID-19" />
